@@ -1,6 +1,10 @@
 # audioControls
 Simple way to create your own audio player.
 
+## XSPF Version
+Adds PHP file that parses a given XSPF file into a valid playlist. Also can parse images for the background banners.
+See xspf_demo.php for it in action.
+
 ## Features
 - playlist
 - audio repeat
